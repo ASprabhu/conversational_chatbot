@@ -1,0 +1,21 @@
+#################################################################
+#   requirements.txt
+#   
+#   Text files with required dependencies to be installed
+#################################################################
+numpy
+scipy
+pandas
+
+# LangChain core and LLaMA support
+langchain
+langchain-community
+llama-cpp-python
+transformers
+accelerate
+
+# LangGraph
+langgraph
+
+# For building web apps
+streamlit
